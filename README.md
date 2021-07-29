@@ -1,0 +1,3 @@
+# my-second-directory
+Ok, perhaps not the second but still...
+Please read me :))
